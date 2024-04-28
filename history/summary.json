@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/poz.unexpo.org.ico",
     "slug": "main-page",
     "status": "down",
-    "uptime": "1.04%",
-    "uptimeDay": "1.04%",
-    "uptimeWeek": "1.04%",
-    "uptimeMonth": "1.04%",
-    "uptimeYear": "1.04%",
-    "time": 177,
-    "timeDay": 177,
-    "timeWeek": 177,
-    "timeMonth": 177,
-    "timeYear": 177,
+    "uptime": "77.56%",
+    "uptimeDay": "77.56%",
+    "uptimeWeek": "77.56%",
+    "uptimeMonth": "77.56%",
+    "uptimeYear": "77.56%",
+    "time": 204,
+    "timeDay": 204,
+    "timeWeek": 204,
+    "timeMonth": 204,
+    "timeYear": 204,
     "dailyMinutesDown": {
-      "2024-04-28": 0
+      "2024-04-28": 3
     }
   }
 ]
