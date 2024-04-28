@@ -1,20 +1,20 @@
 [
   {
-    "name": "Web",
+    "name": "Main Page",
     "url": "https://poz.unexpo.org",
     "icon": "https://icons.duckduckgo.com/ip3/poz.unexpo.org.ico",
-    "slug": "web",
+    "slug": "main-page",
     "status": "down",
-    "uptime": "9.09%",
-    "uptimeDay": "9.09%",
-    "uptimeWeek": "9.09%",
-    "uptimeMonth": "9.09%",
-    "uptimeYear": "9.09%",
-    "time": 169,
-    "timeDay": 169,
-    "timeWeek": 169,
-    "timeMonth": 169,
-    "timeYear": 169,
+    "uptime": "11.06%",
+    "uptimeDay": "11.06%",
+    "uptimeWeek": "11.06%",
+    "uptimeMonth": "11.06%",
+    "uptimeYear": "11.06%",
+    "time": 177,
+    "timeDay": 177,
+    "timeWeek": 177,
+    "timeMonth": 177,
+    "timeYear": 177,
     "dailyMinutesDown": {
       "2024-04-28": 0
     }
