@@ -4,17 +4,17 @@
     "url": "https://poz.unexpo.org",
     "icon": "https://icons.duckduckgo.com/ip3/poz.unexpo.org.ico",
     "slug": "main-page",
-    "status": "up",
+    "status": "down",
     "uptime": "98.41%",
     "uptimeDay": "64.31%",
-    "uptimeWeek": "56.46%",
-    "uptimeMonth": "81.94%",
+    "uptimeWeek": "56.91%",
+    "uptimeMonth": "82.03%",
     "uptimeYear": "98.41%",
-    "time": 866,
-    "timeDay": 1632,
-    "timeWeek": 1655,
-    "timeMonth": 1501,
-    "timeYear": 866,
+    "time": 865,
+    "timeDay": 1585,
+    "timeWeek": 1643,
+    "timeMonth": 1497,
+    "timeYear": 865,
     "dailyMinutesDown": {
       "2025-04-07": 327,
       "2025-04-06": 472,
@@ -26,7 +26,7 @@
       "2025-03-31": 1310,
       "2025-03-30": 1289,
       "2025-03-29": 1339,
-      "2025-03-28": 105
+      "2025-03-28": 67
     }
   }
 ]
